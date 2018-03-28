@@ -4,7 +4,7 @@ SET(CMAKE_SYSTEM_NAME Linux)
 SET(CMAKE_SYSTEM_VERSION 1)
 
 # specify the cross compiler
-SET(CMAKE_C_COMPILER   ~/practice/buildroot/output/host/bin/arm-buildroot-linux-uclibcgnueabi-gcc)
+SET(CMAKE_C_COMPILER   ~/buildroot/output/host/bin/arm-buildroot-linux-uclibcgnueabi-gcc)
 
 # where is the target environment 
 # SET(CMAKE_FIND_ROOT_PATH  /home/Alex/Downloads/helloworld)
