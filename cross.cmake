@@ -7,7 +7,7 @@ SET(CMAKE_SYSTEM_VERSION 1)
 SET(CMAKE_C_COMPILER   ~/practice/buildroot/output/host/bin/arm-buildroot-linux-uclibcgnueabi-gcc)
 
 # where is the target environment 
-SET(CMAKE_FIND_ROOT_PATH  /home/Alex/Downloads/helloworld)
+# SET(CMAKE_FIND_ROOT_PATH  /home/Alex/Downloads/helloworld)
 
 # search for programs in the build host directories
 SET(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
